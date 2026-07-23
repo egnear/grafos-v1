@@ -1,0 +1,21 @@
+id,label,grupo,regiao
+U1,Cliente A,pessoa,Sudeste
+U2,Cliente B,pessoa,Sul
+U3,Cliente C,pessoa,Nordeste
+U4,Cliente D,pessoa,Sudeste
+U5,Cliente E,pessoa,Centro-Oeste
+U6,Cliente F,pessoa,Norte
+D1,Smartphone A,dispositivo,Sudeste
+D2,Smartphone B,dispositivo,Sul
+D3,Notebook C,dispositivo,Nordeste
+D4,Tablet D,dispositivo,Centro-Oeste
+D5,Terminal E,dispositivo,Norte
+IP1,IP 190.12.45.10,ip,Sudeste
+IP2,IP 186.67.23.89,ip,Sul
+IP3,IP 177.55.12.44,ip,Nordeste
+IP4,IP 200.149.67.12,ip,Centro-Oeste
+C1,Cartão X,cartao,Sudeste
+C2,Cartão Y,cartao,Sul
+C3,Cartão Z,cartao,Nordeste
+C4,Cartão W,cartao,Centro-Oeste
+C5,Cartão V,cartao,Norte

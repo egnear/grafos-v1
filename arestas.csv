@@ -1,0 +1,36 @@
+origem,destino,relacao
+U1,D1,usa dispositivo
+U1,IP1,acessa via IP
+U1,C1,pagamento com
+U2,D1,usa dispositivo
+U2,IP2,acessa via IP
+U2,C2,pagamento com
+U3,D2,usa dispositivo
+U3,IP1,acessa via IP
+U3,C2,pagamento com
+U4,D3,usa dispositivo
+U4,IP3,acessa via IP
+U4,C3,pagamento com
+U5,D4,usa dispositivo
+U5,IP4,acessa via IP
+U5,C4,pagamento com
+U6,D5,usa dispositivo
+U6,IP2,acessa via IP
+U6,C5,pagamento com
+D2,IP2,mesmo IP suspeito
+D3,IP4,mesmo IP suspeito
+C1,IP1,cadastrado no mesmo IP
+C2,D2,vinculado ao dispositivo
+C3,D3,vinculado ao dispositivo
+C4,D4,vinculado ao dispositivo
+C5,IP2,usado no mesmo gateway
+C1,C3,cartões compartilhados
+C2,C5,cartões similares
+U2,U6,múltiplas contas associadas
+U1,U3,conexão indireta
+U4,U5,influência cruzada
+U3,U1,conta ligada
+U6,U2,conta ligada
+D1,D2,dispositivos próximos
+IP1,IP2,rota semelhante
+IP3,IP4,provedor comum
